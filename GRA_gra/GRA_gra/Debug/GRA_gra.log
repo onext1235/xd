@@ -1,0 +1,4 @@
+﻿  GRA_gra.cpp
+C:\Users\Maciej\source\repos\GRA_gra\GRA_gra\GRA_gra.cpp(202,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Maciej\source\repos\GRA_gra\GRA_gra\GRA_gra.cpp(204,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  GRA_gra.vcxproj -> C:\Users\Maciej\source\repos\GRA_gra\Debug\GRA_gra.exe
